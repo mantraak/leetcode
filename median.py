@@ -7,3 +7,4 @@ class Solution:
         else:
             return num[n//2]
 # Time Complexity: O((m+n) log(m+n))
+# Space Complexity: O(m+n)
