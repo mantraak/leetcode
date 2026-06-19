@@ -6,5 +6,6 @@ class Solution:
             return (num[n//2 - 1] + num[n//2]) / 2
         else:
             return num[n//2]
-# Time Complexity: O((m+n) log(m+n))
+            
+# Time Complexity: O((m+n)log(m+n))
 # Space Complexity: O(m+n)
